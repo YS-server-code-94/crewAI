@@ -1,0 +1,4 @@
+/* /index.html 200
+/health /api/health 200
+/health/ready /api/health/ready 200
+/health/live /api/health/live 200
